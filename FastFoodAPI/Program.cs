@@ -40,7 +40,9 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular", policy =>
-        policy.WithOrigins("https://fastfood-front-production.up.railway.app")
+        policy.WithOrigins(
+    "http://localhost:4200",
+    "https://fastfood-front-production.up.railway.app")
               .AllowAnyHeader()
               .AllowAnyMethod());
 });
