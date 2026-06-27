@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\controllers\\racuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\controllers\\racuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\controllers\\korpacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\controllers\\korpacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\services\\cassandraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\services\\cassandraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\fastfoodapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\fastfoodapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\controllers\\proizvodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\controllers\\proizvodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\controllers\\konobarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\controllers\\konobarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\controllers\\korisnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\controllers\\korisnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|c:\\users\\administrator\\source\\repos\\fastfoodapi\\fastfoodapi\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A665487-FEEC-484D-93AB-15628ECB961C}|FastFoodAPI\\FastFoodAPI.csproj|solutionrelative:fastfoodapi\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\.gitignore",
+              "RelativeDocumentMoniker": "FastFoodAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\.gitignore",
+              "RelativeToolTip": "FastFoodAPI\\.gitignore",
+              "ViewState": "AQIAAMgBAAAAAAAAAAAiwOQBAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-06-27T15:17:30.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FastFoodAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\FastFoodAPI.csproj",
+              "RelativeDocumentMoniker": "FastFoodAPI\\FastFoodAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\FastFoodAPI.csproj",
+              "RelativeToolTip": "FastFoodAPI\\FastFoodAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T12:19:30.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Program.cs",
+              "RelativeToolTip": "FastFoodAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:22:00.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RacunController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\RacunController.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Controllers\\RacunController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\RacunController.cs",
+              "RelativeToolTip": "FastFoodAPI\\Controllers\\RacunController.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAAwOoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:30:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProizvodController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\ProizvodController.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Controllers\\ProizvodController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\ProizvodController.cs",
+              "RelativeToolTip": "FastFoodAPI\\Controllers\\ProizvodController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:29:56.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Models\\Models.cs",
+              "RelativeToolTip": "FastFoodAPI\\Models\\Models.cs",
+              "ViewState": "AQIAAA0AAABAzMzMzMwnwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:25:58.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CassandraService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Services\\CassandraService.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Services\\CassandraService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Services\\CassandraService.cs",
+              "RelativeToolTip": "FastFoodAPI\\Services\\CassandraService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:26:50.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FastFoodAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABwAAACgZGZmZmYkwCYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:28:17.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KorpaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\KorpaController.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Controllers\\KorpaController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\KorpaController.cs",
+              "RelativeToolTip": "FastFoodAPI\\Controllers\\KorpaController.cs",
+              "ViewState": "AQIAAFsAAADAzMzMzMwcwGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T22:36:15.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FastFoodAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-25T13:00:17.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KonobarController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\KonobarController.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Controllers\\KonobarController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\KonobarController.cs",
+              "RelativeToolTip": "FastFoodAPI\\Controllers\\KonobarController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:29:22.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KorisnikController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\KorisnikController.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Controllers\\KorisnikController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Controllers\\KorisnikController.cs",
+              "RelativeToolTip": "FastFoodAPI\\Controllers\\KorisnikController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:28:50.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FastFoodAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\appsettings.json",
+              "RelativeToolTip": "FastFoodAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-25T12:20:43.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "FastFoodAPI\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:27:43.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\DTOs\\DTOs.cs",
+              "RelativeDocumentMoniker": "FastFoodAPI\\DTOs\\DTOs.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastFoodAPI\\FastFoodAPI\\DTOs\\DTOs.cs",
+              "RelativeToolTip": "FastFoodAPI\\DTOs\\DTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:26:21.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
