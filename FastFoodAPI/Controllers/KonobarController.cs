@@ -23,7 +23,7 @@ public class KonobarController : ControllerBase
         [FromBody] DodajKonobaraDto dto,
         [FromHeader(Name = "X-Admin-Key")] string? adminKey)
     {
-        if (adminKey != "FastFood_Admin_Secret_2024")
+        if (adminKey != "FastFood_Admin_Secret_2026")
             return Unauthorized(new { poruka = "Neautorizovan pristup." });
 
         if (string.IsNullOrWhiteSpace(dto.Ime) || string.IsNullOrWhiteSpace(dto.Lozinka))

@@ -45,3 +45,4 @@ C:\Users\Administrator\source\repos\FastFoodAPI\FastFoodAPI\obj\Debug\net8.0\ref
 C:\Users\Administrator\source\repos\FastFoodAPI\FastFoodAPI\obj\Debug\net8.0\FastFoodAPI.pdb
 C:\Users\Administrator\source\repos\FastFoodAPI\FastFoodAPI\obj\Debug\net8.0\FastFoodAPI.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\FastFoodAPI\FastFoodAPI\obj\Debug\net8.0\ref\FastFoodAPI.dll
+C:\Users\Administrator\source\repos\FastFoodAPI\FastFoodAPI\obj\Debug\net8.0\FastFoodAPI.sourcelink.json
