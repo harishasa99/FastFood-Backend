@@ -75,19 +75,8 @@ public class AuthController : ControllerBase
     {
         var session = _cassandra.Session;
 
-        var sviKonobari = session.Execute(
-            "SELECT id, ime, prezime, lozinka FROM konobar");
-
-        Row? nadjen = null;
-        foreach (var row in sviKonobari)
-        {
-            if (row.GetValue<string>("ime") == dto.Ime &&
-                BC.Verify(dto.Lozinka, row.GetValue<string>("lozinka")))
-            {
-                nadjen = row;
-                break;
-            }
-        }
+        var ps = session.Prepare("SELECT id, ime, prezime, lozinka FROM konobar WHERE ime = ?");
+        var nadjen = session.Execute(ps.Bind(dto.Ime)).FirstOrDefault();
 
         if (nadjen == null)
             return Unauthorized(new { poruka = "Pogresno ime ili lozinka." });

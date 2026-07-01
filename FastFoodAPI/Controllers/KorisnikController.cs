@@ -74,21 +74,5 @@ public class KorisnikController : ControllerBase
         return Ok(new { poruka = "Profil uspjesno azuriran." });
     }
 
-    [HttpGet("svi")]
-    [Authorize(Roles = "konobar")]
-    public IActionResult SviKorisnici()
-    {
-        var result = _cassandra.Session.Execute(
-            "SELECT id, ime, prezime, email FROM korisnik");
-
-        var lista = result.Select(r => new
-        {
-            Id = r.GetValue<Guid>("id"),
-            Ime = r.GetValue<string>("ime"),
-            Prezime = r.GetValue<string>("prezime"),
-            Email = r.GetValue<string>("email")
-        }).ToList();
-
-        return Ok(lista);
-    }
+    
 }

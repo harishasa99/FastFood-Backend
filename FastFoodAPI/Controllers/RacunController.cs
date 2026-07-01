@@ -29,6 +29,9 @@ public class RacunController : ControllerBase
         if (dto.Stavke == null || !dto.Stavke.Any())
             return BadRequest(new { poruka = "Racun mora imati bar jedan proizvod." });
 
+        if (dto.Stavke.Any(s => s.Kolicina <= 0))
+            return BadRequest(new { poruka = "Kolicina mora biti veca od 0." });
+
         var session = _cassandra.Session;
         var konobarId = TrenutniId;
         var racunId = Guid.NewGuid();

@@ -72,6 +72,14 @@ public class ProizvodController : ControllerBase
     [Authorize(Roles = "konobar")]
     public IActionResult Azuriraj(Guid id, [FromBody] ProizvodDto dto)
     {
+        if (string.IsNullOrWhiteSpace(dto.Naziv) || dto.Cena <= 0)
+            return BadRequest(new { poruka = "Naziv i cena su obavezni." });
+
+        var checkPs = _cassandra.Session.Prepare("SELECT id FROM proizvod WHERE id = ?");
+        var postoji = _cassandra.Session.Execute(checkPs.Bind(id)).FirstOrDefault();
+        if (postoji == null)
+            return NotFound(new { poruka = "Proizvod nije pronadjen." });
+
         var ps = _cassandra.Session.Prepare(
             "UPDATE proizvod SET naziv = ?, opis = ?, cena = ? WHERE id = ?");
         _cassandra.Session.Execute(ps.Bind(dto.Naziv, dto.Opis, dto.Cena, id));

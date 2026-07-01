@@ -38,43 +38,7 @@ public class KonobarController : ControllerBase
 
         return Ok(new { poruka = "Konobar uspjesno dodat.", id });
     }
-
-    [HttpGet("profil")]
-    [Authorize(Roles = "konobar")]
-    public IActionResult GetProfil()
-    {
-        var id = Guid.Parse(User.FindFirst(ClaimTypes.NameIdentifier)!.Value);
-
-        var ps = _cassandra.Session.Prepare(
-            "SELECT id, ime, prezime FROM konobar WHERE id = ?");
-        var row = _cassandra.Session.Execute(ps.Bind(id)).FirstOrDefault();
-
-        if (row == null) return NotFound(new { poruka = "Konobar nije pronadjen." });
-
-        return Ok(new
-        {
-            Id = row.GetValue<Guid>("id"),
-            Ime = row.GetValue<string>("ime"),
-            Prezime = row.GetValue<string>("prezime")
-        });
-    }
-
-    [HttpGet("svi")]
-    [Authorize(Roles = "konobar")]
-    public IActionResult SviKonobari()
-    {
-        var result = _cassandra.Session.Execute(
-            "SELECT id, ime, prezime FROM konobar");
-
-        var lista = result.Select(r => new
-        {
-            Id = r.GetValue<Guid>("id"),
-            Ime = r.GetValue<string>("ime"),
-            Prezime = r.GetValue<string>("prezime")
-        }).ToList();
-
-        return Ok(lista);
-    }
+    
 }
 
 public class DodajKonobaraDto
